@@ -1,2 +1,2 @@
 # installation Docker:
-[git link](https://www.docker.com/get-started)
+[installation link](https://www.docker.com/get-started)
