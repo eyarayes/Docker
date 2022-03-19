@@ -26,3 +26,27 @@ docker search – Searches the Docker Hub for images
 docker attach – Attaches to a running container
 docker commit – Creates a new image from a container’s changes
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://www.youtube.com/watch?v=DFyPl2cZM2g&list=PLX1bW_GeBRhDkTf_jbdvBbkHs2LCWVeXZ&index=1&ab_channel=Codographia
+
+m on part 11 
